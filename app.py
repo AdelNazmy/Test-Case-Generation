@@ -27,9 +27,9 @@ from llama_index.core import (
     set_global_handler
 )
 
-# import phoenix as px
-# px.launch_app()
-# set_global_handler("arize_phoenix")
+import phoenix as px
+px.launch_app()
+set_global_handler("arize_phoenix")
 
 # import logging
 # import sys
